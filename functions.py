@@ -40,6 +40,15 @@ def fungsi5(angka):
 
     return angka
 
+# Plus 0 dan min 0
+def fungsi6(angka):
+    if angka == 0:
+        angka = ""
+    else:
+        angka = fungsi2(angka)
+
+    return angka
+
 # Pecahan
 def reciprocal(a, b):
     # a/b
