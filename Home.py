@@ -99,8 +99,8 @@ st.markdown('''
 - Silahkan masukkan jenis persamaan dan variabelnya di menu bawah
 - Agar bisa melihat informasi, klik tombol informasi program ini
 
-Version: 1.4<br>
-Last updated: 11 Juli 2023
+Version: 1.4.1<br>
+Last updated: 31 Juli 2023
 
 <style>
 .myDiv {
