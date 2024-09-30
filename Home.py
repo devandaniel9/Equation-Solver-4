@@ -100,7 +100,8 @@ st.markdown('''
 - Agar bisa melihat informasi, klik tombol informasi program ini
 
 Version: 1.4.1<br>
-Last updated: 31 Juli 2023
+Last updated: 30 Sept 2024 (Untuk dapat mengakses link ini)
+Last updated: 31 Juli 2023 (Perubahan isi program ini)
 
 <style>
 .myDiv {
